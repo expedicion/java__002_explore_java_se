@@ -10,11 +10,13 @@ class UsingIf {
             System.out.println("A < B");
             System.out.println("A -> " + a + " | B -> " + b);
         }
+
         a += 6;
         if (a == b) {
             System.out.println("A = B");
             System.out.println("A -> " + a + " | B -> " + b);
         }
+
         a -= 11;
         if (a > b) {
             System.out.println("A > B");
