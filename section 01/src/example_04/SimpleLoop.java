@@ -9,6 +9,5 @@ class SimpleLoop {
             System.out.println(" Iterator: " + i);
             System.out.println("Reverse-iterator: " + a--);
         }
-
     }
 }

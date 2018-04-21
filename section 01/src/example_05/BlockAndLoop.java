@@ -9,7 +9,7 @@ class BlockAndLoop {
         for (x = 0; x < 10; x++) {
             System.out.println("X -> " + x);
             System.out.println("Y -> " + y);
-            System.out.println("Z -> " + y);
+            System.out.println("Z -> " + z);
             y = y * 3;
             z = y * x;
         }
